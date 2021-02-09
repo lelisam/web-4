@@ -36,6 +36,8 @@ ul {
 
 .linkinfo{
     color:#3D58A6;
+    border-bottom:5px solid #3D58A6;
+    padding-bottom: 5px;
 }
 
 h1 {
@@ -83,4 +85,8 @@ h1 {
 body{
     margin-left: 0px;
     margin-right: 0px;
+}
+
+.hr1{
+    border-bottom:2px solid #3D58A6;
 }
